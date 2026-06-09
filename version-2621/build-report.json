@@ -1,0 +1,22 @@
+{
+    "parsed_movie_count": 2000,
+    "detail_page_count": 2000,
+    "category_count": 12,
+    "category_counts": {
+        "featured": 167,
+        "huayu": 167,
+        "movies": 167,
+        "dramas": 167,
+        "animation": 167,
+        "variety": 167,
+        "action-suspense": 167,
+        "comedy-romance": 167,
+        "fantasy-sci-fi": 166,
+        "classic": 166,
+        "global": 166,
+        "new-releases": 166
+    },
+    "video_source_count_from_uploaded_js": 20,
+    "cover_rule": "cover = ((movie_id - 1) % 150) + 1, referenced as top-level JPG file",
+    "analytics_id": "95df08bc498ee0333203841fd6fee1eb"
+}
